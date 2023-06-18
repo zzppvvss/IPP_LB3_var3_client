@@ -1,0 +1,17 @@
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.exe
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.deps.json
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.runtimeconfig.json
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.runtimeconfig.dev.json
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.dll
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\ref\IPP_LB3_var3_client.dll
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\bin\Debug\net5.0-windows\IPP_LB3_var3_client.pdb
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.Form1.resources
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.csproj.GenerateResource.cache
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.AssemblyInfoInputs.cache
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.AssemblyInfo.cs
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.dll
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\ref\IPP_LB3_var3_client.dll
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.pdb
+C:\Users\Dasha\source\repos\IPP_LB3_var3_client\IPP_LB3_var3_client\obj\Debug\net5.0-windows\IPP_LB3_var3_client.genruntimeconfig.cache
